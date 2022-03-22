@@ -1,0 +1,16 @@
+- 👋 Hi, I’m @RnBreez...
+- 👀 I’m interested in ...
+Learning HTML & SSH Basics,and pretty much anything I can in relation to computer science. 
+- 🌱 I’m currently learning ...
+Basic HTML commands. 
+- 💞️ I’m looking to collaborate on ...
+Nothing in specific currently, but would eventually like to be able to develop my own applications, and be omniscient enough to set up my own networks.
+- 📫 How to reach me ...
+email:
+angelic_fatigue.0y@icloud.com
+
+<!---
+RnBreez/RnBreez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+-
